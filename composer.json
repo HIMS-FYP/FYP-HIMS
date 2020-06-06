@@ -1,0 +1,11 @@
+{
+    "name": "medydullah/fyp-hims",
+    "type": "project",
+    "authors": [
+        {
+            "name": "nassoro",
+            "email": "medydullah01@gmail.com"
+        }
+    ],
+    "require": {}
+}
